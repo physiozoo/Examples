@@ -1,0 +1,3 @@
+Human_example_SpO2 1 1 3648
+Human_example_SpO2.dat 16 15983.902439(-1559229)/% 16 0 -16782 50403 0 SpO2 (oxygen_saturation,enable)
+#Mammal:human,Integration_level:oximetry

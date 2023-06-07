@@ -1,0 +1,8 @@
+---
+type: rhythms annotation
+source file: Human_example_ecg_2_leads_short.txt
+
+---
+
+Beginning	End		Class
+7.64000	189.99500	AFIB

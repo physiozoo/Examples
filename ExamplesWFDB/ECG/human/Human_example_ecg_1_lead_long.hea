@@ -1,0 +1,4 @@
+Human_example_ecg_1_lead_long 2 128 11051008  9:55:00
+Human_example_ecg_1_lead_long.dat 212 0/mV 12 0 -19 26371 0 ECG1 (electrography,enable)
+Human_example_ecg_1_lead_long.dat 212 0/mV 12 0 -5 32741 0 ECG2 (electrography,disable)
+#Mammal:human,Integration_level:electrocardiogram

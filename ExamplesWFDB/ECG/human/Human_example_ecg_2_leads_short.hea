@@ -1,0 +1,4 @@
+Human_example_ecg_2_leads_short 2 200 52597
+Human_example_ecg_2_leads_short.dat 16 65013.85972280555(-342363)/mV 16 0 -11117 8153 0 ECG1 (electrography,enable)
+Human_example_ecg_2_leads_short.dat 16 49089.0771696817(-247139)/mV 16 0 -3411 47314 0 ECG2 (electrography,enable)
+#Mammal:human,Integration_level:electrocardiogram

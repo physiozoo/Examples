@@ -1,0 +1,13 @@
+Human_example_ecg_12_leads_short 12 500 5000
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 -130 44703 0 I
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 -100 48875 0 II
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 30 4196 0 III
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 115 18560 0 AVR
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 -80 53510 0 AVL
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 -35 59606 0 AVF
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 120 15235 0 V1
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 150 15824 0 V2
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 5 55296 0 V3
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 -110 31419 0 V4
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 -160 24592 0 V5
+Human_example_ecg_12_leads_short.dat 16 1000.0(0)/mV 16 0 -170 30462 0 V6
